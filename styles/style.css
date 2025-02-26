@@ -1,0 +1,22 @@
+:root{
+    --main-white: #FFFFFF;
+    --secundary-grey: #C0C0C0;
+    --blue-button: #167BF7;
+    --background: #00030C;
+}
+
+*, 
+*:after,
+*:before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+	height: 100vh;
+    font-size: 100%;
+    list-style-type: none;
+    background-color: var(--background);
+    color: var(--main-white);
+}
