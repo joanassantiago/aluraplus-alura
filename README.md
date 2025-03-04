@@ -67,7 +67,7 @@ To run this project locally, follow these steps:
    ```
 3. **Open the project**:
    - Open the `index.html` file in your preferred web browser. 
-   - Alternatively, use a local server (e.g., Live Server in VS Code) to serve the files. 🖥
+   - Alternatively, use a local server (e.g., Live Server in VS Code) to serve the files. 
 
 ---
 
@@ -76,6 +76,6 @@ To run this project locally, follow these steps:
 This project is intended for educational purposes and as a demonstration of my learning progress. Feel free to explore the code and use it as a reference for your own projects. If you'd like to customize it for your own landing page, you can fork the repository and make changes as needed. 
 
 ---
-## ⭐ Site: https://alurabooks-alura-khaki.vercel.app
+## ⭐ Site: aluraplus-alura-puce.vercel.app
 
 Thank you for checking out the **AluraPlus** project! 🙌 This is a work in progress and part of my learning journey with Alura. Stay tuned for more updates! 🚀
